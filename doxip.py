@@ -10,7 +10,7 @@ RESET = '\033[39m'
 p= pyfiglet.figlet_format("DoxIP")
 print(RED+p)
 print(GREEN+"===================================")
-print(RED+"Etherium Banking")
+print(RED+"BY:Etherium Banking 24K")
 print(GREEN+"===================================")
 api_url = "http://ip-api.com/json/"
 parametros = 'status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query'
